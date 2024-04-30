@@ -1,4 +1,22 @@
-TP Hibernate 
+# Projets Hibernate
+
+Ce laboratoire comprend quatre exercices distincts, chacun avec une procédure d'exécution similaire. Ci-dessous, vous trouverez les étapes pour mener à bien ces exercices.
+
+## Étapes de la Procédure
+
+Étape 1: Création de la Base de Données
+Créez des bases de données nommées h1, h3, htar. Assurez-vous que les bases de données sont à la fois créées et accessibles.
+
+Étape 2: Validation de la Configuration hibernate.cfg.xml
+Ouvrez le fichier hibernate.cfg.xml et vérifiez la correction de la configuration. Prêtez une attention particulière à :
+- URL de connexion à la base de données, nom d'utilisateur et mot de passe.
+- Le dialecte utilisé.
+- Particularités de mappage pour les entités.
+- Configurations Hibernate supplémentaires pertinentes pour votre exercice.
+
+Étape 3: Exécution de la Classe de Test
+Exécutez les classes Test.java dans le package ma.projet.test. Assurez-vous que toutes les dépendances requises sont présentes et que le chemin de classe est correctement configuré.
+
 
 Exercice 1
 ![image](https://github.com/A-laili/Tp_Hibernate/assets/147451080/3c998274-a9bb-483e-9110-f4ca31fd9043)
